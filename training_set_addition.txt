@@ -1,0 +1,15 @@
+yasemin-sample0.wav
+yasemin-sample1.wav
+yasemin-sample2.wav
+yasemin-sample3.wav
+yasemin-sample4.wav
+emir-sample0.wav
+emir-sample1.wav
+emir-sample2.wav
+emir-sample3.wav
+emir-sample4.wav
+gizem-sample0.wav
+gizem-sample1.wav
+yasemin-sample0.wav
+özlem-sample0.wav
+Yasemin Bilgin-sample0.wav
